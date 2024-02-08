@@ -45,7 +45,8 @@
         "streambuf": "cpp",
         "typeinfo": "cpp",
         "datasizecalculator": "c",
-        "ctime": "cpp"
+        "ctime": "cpp",
+        "cstdarg": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
